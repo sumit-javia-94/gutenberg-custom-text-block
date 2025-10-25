@@ -3,7 +3,7 @@
  * Plugin Name: My Text Block
  * Description: A simple custom Gutenberg block to display text.
  * Version: 1.0
- * Author: Sumit - iFlair
+ * Author: Sumit Javia
  */
 
 function my_text_block_register_manual() {
