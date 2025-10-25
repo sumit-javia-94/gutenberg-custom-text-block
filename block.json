@@ -1,0 +1,16 @@
+{
+  "apiVersion": 2,
+  "name": "myplugin/my-text-block",
+  "title": "My Text Block - Sumit : iFlair",
+  "category": "widgets",
+  "icon": "edit",
+  "description": "A simple block to display text.",
+  "editorScript": "file:./index.js",
+  "style": "file:./style.css",
+  "attributes": {
+    "content": {
+      "type": "html",
+      "default": "Hello This is a text block! You can edit me."
+    }
+  }
+}
