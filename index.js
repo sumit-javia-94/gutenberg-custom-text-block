@@ -3,7 +3,7 @@ const { RichText, BlockControls, AlignmentToolbar } = wp.blockEditor;
 const { ToolbarGroup, ToolbarButton } = wp.components;
 
 registerBlockType('myplugin/my-text-block', {
-    title: 'My Text Block',
+    title: 'Custom Text Block',
     icon: 'smiley',
     category: 'widgets',
     attributes: {
